@@ -1,4 +1,5 @@
-/*war goddess 300 backdoor test
+/*war goddess 300 
+
  *
  * i'm a beginner, i try to see if what is entered in the input
  * will be stored in the file (.txt)
